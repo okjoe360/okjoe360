@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okjoe360
 - 👀 I’m interested in Python, Javascript, php, goland and C#
-- 🌱 I’m currently learning golang and C#
+- 🌱 I’m currently learning Data Science, golang and C#
 - 💞️ I’m looking to collaborate on SSR
 - 📫 How to reach me ...
 
