@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okjoe360
-- 👀 I’m interested in Data, Python, Javascript, php, goland and C#
-- 🌱 I’m currently learning Data Science, golang and C#
+- 👀 I’m interested in Data Analysis, Python, Javascript and Java
+- 🌱 I’m currently learning Data Science, Cyber-Security, Angular and Java
 - 💞️ I’m looking to collaborate on Data Analysis & SSR
 - 📫 How to reach me ...
 
